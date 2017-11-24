@@ -10,10 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   x="0px"
-   y="0px"
-   width="50.4px"
-   height="93.6px"
+   x="0"
+   y="0"
+   width="50.4"
+   height="93.6"
    viewBox="0 0 50.4 93.6"
    enable-background="new 0 0 50.4 93.6"
    xml:space="preserve"
@@ -81,138 +81,138 @@
            transform="matrix(0,-1,1,0,9.7195,91.0803)"
            font-size="2.5"
            id="text42"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">9</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">9</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,83.8792)"
            font-size="2.5"
            id="text44"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">8</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">8</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,76.3196)"
            font-size="2.5"
            id="text46"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">7</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">7</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,69.4797)"
            font-size="2.5"
            id="text48"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">6</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">6</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,62.2795)"
            font-size="2.5"
            id="text50"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">5</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">5</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,55.0803)"
            font-size="2.5"
            id="text52"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">4</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">4</text>
 <text
            transform="matrix(0,-1,1,0,9.7195,47.8792)"
            font-size="2.5"
            id="text54"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">3</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">3</text>
 <text
            transform="matrix(0,-1,1,0,9.3591,40.3196)"
            font-size="2.5"
            id="text56"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">2</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">2</text>
 <text
            transform="matrix(0,-1,1,0,9.3591,35.6399)"
            font-size="2.5"
            id="text58"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">GND</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">GND</text>
 <text
            transform="matrix(0,-1,1,0,0,0)"
            font-size="2.5"
            id="text60"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff"
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff"
            x="-28.081299"
            y="9.3591003">RST</text>
 <text
            transform="matrix(0,-1,1,0,9.3591,20.8792)"
            font-size="2.5"
            id="text62"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">0/RX</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">0/RX</text>
 <text
            transform="matrix(0,-1,1,0,9.3591,13.6799)"
            font-size="2.5"
            id="text64"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">1/TX</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">1/TX</text>
 <text
            transform="matrix(0,-1,1,0,0,0)"
            font-size="2.5"
            id="text70"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff"
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff"
            x="-12.609312"
            y="43.406361">Vin</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,20.8792)"
            font-size="2.5"
            id="text72"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">GND</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">GND</text>
 <text
            transform="matrix(0,-1,1,0,0,0)"
            font-size="2.5"
            id="text74"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff"
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff"
            x="-28.540125"
            y="43.559299">AREF</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,35.2795)"
            font-size="2.5"
            id="text76"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">VCC</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">VCC</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,41.3997)"
            font-size="2.5"
            id="text78"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">A3</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">A3</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,48.5999)"
            font-size="2.5"
            id="text80"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">A2</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">A2</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,56.1604)"
            font-size="2.5"
            id="text82"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">A1</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">A1</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,63.3596)"
            font-size="2.5"
            id="text92"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">A0</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">A0</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,70.5598)"
            font-size="2.5"
            id="text94"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">13</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">13</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,77.76)"
            font-size="2.5"
            id="text96"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">12</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">12</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,84.9592)"
            font-size="2.5"
            id="text98"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">11</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">11</text>
 <text
            transform="matrix(0,-1,1,0,43.5593,92.1604)"
            font-size="2.5"
            id="text100"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff">10</text>
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff">10</text>
 <text
            font-size="3"
            id="text36"
-           style="font-size:3px;font-family:OCRA;fill:#ffffff"
+           style="font-size:3;font-family:OCRA;fill:#ffffff"
            x="17.148439"
            y="76.530472">   SAMD21</text>
 <text
            font-size="3"
            id="text38"
-           style="font-size:3px;font-family:OCRA;fill:#ffffff"
+           style="font-size:3;font-family:OCRA;fill:#ffffff"
            x="19.311884"
            y="73.612213">Sparkfun</text>
 <path
@@ -1135,7 +1135,7 @@
              style="opacity:0.2;fill:#ffffff" /></g><text
            y="9.3591003"
            x="-28.081299"
-           style="font-size:2.5px;font-family:OCRA;fill:#ffffff"
+           style="font-size:2.5;font-family:OCRA;fill:#ffffff"
            id="text4643"
            font-size="2.5"
            transform="matrix(0,-1,1,0,0,0)">RST</text>
